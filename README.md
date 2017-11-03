@@ -12,6 +12,10 @@
 
 ### Code Example
 
+### Log
+
+- 2017/11/03 Add model and resource generator
+
 ``` ruby
 	def my_great_method
 		puts "here it is"
